@@ -3,7 +3,7 @@ Collection of personal implementations of patterns, fractals and cool visual stu
 
 It's pretty cool and there's a [web editor](https://editor.p5js.org) (which I use) that makes it a lot easier.
 
-The code for each sketch is in sketch.js. To just view the visual thingy, open index.html.
+The code for each sketch is in sketch.js, in it's respective folder. To just view the visual thingy, open index.html.
 
 ## Recursive Squares
 A recursive implementation of the gif seen [here](https://giphy.com/gifs/design-processing-blackandwhite-6DxgByF70i5pe).
